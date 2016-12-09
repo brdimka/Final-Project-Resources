@@ -41,7 +41,7 @@ p{ font-size:1em; margin:0 0 10px; }
 .serif h1, .serif h2, .serif p{
 	font-family:'Publico', serif;
 }
-.extra{ 
+.extra{
 	font-size:3.5em;
 	text-transform: uppercase;
 }
@@ -61,12 +61,12 @@ p{ font-size:1em; margin:0 0 10px; }
 @font-face{
 	font-family:MaisonNeue;
 	font-weight:bold;
-	src:url("./assets/fonts/maisonneue/MaisonNeueTRIAL-Bold.otf");
+	src:url("./style-template/assets/fonts/maisonneue/MaisonNeueTRIAL-Bold.otf");
 }
 @font-face{
 	font-family:MaisonNeue;
 	font-weight:normal;
-	src:url("./assets/fonts/maisonneue/MaisonNeueTRIAL-Demi.otf");
+	src:url("./style-template/assets/fonts/maisonneue/MaisonNeueTRIAL-Demi.otf");
 }
 @font-face{
 	font-family:Publico;
@@ -78,4 +78,3 @@ p{ font-size:1em; margin:0 0 10px; }
 	font-weight:bold;
 	src:url("./assets/fonts/publico/PublicoText-Bold-Web.woff");
 }
-
